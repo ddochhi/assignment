@@ -23,7 +23,7 @@ while game_is_on:
     screen.update()
     time.sleep(0.1)
 
-    for seg_num in range(2, 0, step= -1)
+    # for seg_num in range(2, 0, step= -1)
 
 
 
